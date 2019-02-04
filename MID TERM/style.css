@@ -1,0 +1,23 @@
+button{
+	
+	padding: 20px;
+	background-blend-mode: color-burn;
+
+
+}
+
+table{
+
+	background-color: silver;
+	border-style: solid;
+	border-color: black
+
+
+}
+input{
+	border-style: solid;
+	padding: 10px;
+	width: 17%;
+	height: 30px;
+
+}
